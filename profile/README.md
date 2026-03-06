@@ -1,19 +1,8 @@
-MindForge is a deep-tech collective building at the intersection of physics, mathematics, computer science, and AI.
+DeepMatter is a collective exploring the foundations of intelligence, computation, and the physical world.
 
-We believe the hardest problems facing humanity require first-principles thinking and real engineering. Not hype. Not theory alone. Systems.
+We build at the intersection of physics, mathematics, computer science, and AI—focusing on the fundamental structures that shape complex systems. Our work spans research, experimentation, and open-source engineering aimed at solving hard problems with first-principles thinking.
 
-At MindForge, we:
+From theoretical models to practical systems, DeepMatter is driven by a simple belief:
+the deepest understanding of matter, information, and intelligence leads to the most powerful tools for humanity.
 
-Explore fundamental science
-
-Build intelligent systems
-
-Engineer tools that scale
-
-Open-source ideas that matter
-
-From quantum simulations to AI architectures, from mathematical modeling to applied hardware, we operate in “hard mode” — where rigor meets execution.
-
-We are researchers, builders, and students committed to forging intelligence into reality.
-
-Think deeply. Build boldly. Forge the future.
+Understand deeply. Build boldly.
